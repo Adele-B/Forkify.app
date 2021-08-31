@@ -1,4 +1,3 @@
-import { timeStamp } from 'console';
 import View from './View.js';
 
 class AddRecipeView extends View {
